@@ -45,9 +45,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   carPrefab: {fileID: 8754105164542935027, guid: b70260de9b7aba147973791415987720, type: 3}
+  playerPrefab: {fileID: 4400459650441802853, guid: e9c4f85dea21f954095c89e326b2113b, type: 3}
   spawnPosition:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  spawnTime: 0.99
-  player: {fileID: 4400459650441802853, guid: e9c4f85dea21f954095c89e326b2113b, type: 3}
+  - {fileID: 1374534597076155058, guid: c8be15e244a4a6e4f89c44107513ca1f, type: 3}
+  - {fileID: 8565247933905426693, guid: 41e77527845461546a7745314f260df7, type: 3}
+  - {fileID: 4651436251116871768, guid: de7439bac5315c44b829c2d31d489caa, type: 3}
+  spawnTime: 1.17

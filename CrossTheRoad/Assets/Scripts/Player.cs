@@ -26,7 +26,6 @@ public class Player : MonoBehaviour
     {
         if (col.gameObject.CompareTag("Obstacle"))
         {
-            Destroy(gameObject);
             gameManager.RestartGame();
         }
     }
